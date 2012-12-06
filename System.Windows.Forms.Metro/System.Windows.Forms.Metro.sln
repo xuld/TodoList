@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "System.Windows.Forms.Metro", "System.Windows.Forms.Metro\System.Windows.Forms.Metro.vbproj", "{F493CB39-A649-47AD-99B1-2E9F21E961CD}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Demo", "Demo\Demo.vbproj", "{1E76DEBA-7E3D-470D-AE1A-E5FF1C322376}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs18
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = System.Windows.Forms.Metro\\System.Windows.Forms.Metro.vbproj
+		SccProjectName1 = System.Windows.Forms.Metro
+		SccLocalPath1 = System.Windows.Forms.Metro
+		SccProjectUniqueName2 = Demo\\Demo.vbproj
+		SccProjectName2 = Demo
+		SccLocalPath2 = Demo
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F493CB39-A649-47AD-99B1-2E9F21E961CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F493CB39-A649-47AD-99B1-2E9F21E961CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F493CB39-A649-47AD-99B1-2E9F21E961CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F493CB39-A649-47AD-99B1-2E9F21E961CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E76DEBA-7E3D-470D-AE1A-E5FF1C322376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E76DEBA-7E3D-470D-AE1A-E5FF1C322376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E76DEBA-7E3D-470D-AE1A-E5FF1C322376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E76DEBA-7E3D-470D-AE1A-E5FF1C322376}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
